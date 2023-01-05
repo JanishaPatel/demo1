@@ -2,5 +2,4 @@
 
 this demo1 repository
 
-now updating on updatebranch
-update locally
+update made on master before rebase
